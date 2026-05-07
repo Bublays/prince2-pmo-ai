@@ -1,7 +1,7 @@
 PROJ_TS_2602_LIS_MAN_ENG – Charta projektu
 
 ZÁKLADNÍ INFORMACE Název dokumentu: PROJ_TS_2602_LIS_MAN_ENG – Charta projektu
-Klasifikace dokumentu: INTERNÍ Datum: 24.05.2024 Verze: 1v0
+Klasifikace dokumentu: INTERNÍ Datum: 07.05.2026 Verze: 1v0
 
 SCHVÁLENÍ Zpracoval: Michal Michálek Schválil: k doplnění
 
@@ -136,7 +136,6 @@ Součástí dodávky je:
   - Nasazení spravovaných zařízení - instalace agentů, jejich připojení k
     centrálnímu serveru a uvedení zařízení do správy systému UEM
   - Zajištění akceptačních testů a ověření funkčnosti
-  - Školení administrátorů a předání provozní dokumentace
   - Předání provozní dokumentace a provedení školení administrátorů
   - Záruční podpora veškerého dodaného HW a SW po dobu 5 let
 
@@ -145,8 +144,7 @@ Součástí dodávky je:
 3.1 Identifikované role v projektu
 
 Dodavatel (zhotovitel) – TOTAL SERVICE a.s. Kontaktní osoba dodavatele: Zdeněk
-Čmelík, MBA, zcmelik@totalservice.cz Vedoucí projektu: Michal Michálek k
-doplnění
+Čmelík, MBA, zcmelik@totalservice.cz Vedoucí projektu: Michal Michálek
 
 Zadavatel – Liberecká IS, a.s. Sponzor projektu: Ing. Jaroslav Bureš Kontaktní
 osoba zadavatele: Jiří Třísko, trisko.jiri@is.liberec.cz
