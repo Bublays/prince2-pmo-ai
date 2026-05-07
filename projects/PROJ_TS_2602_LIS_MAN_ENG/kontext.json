@@ -1,1 +1,129 @@
+{ "projekt": { "id": "PROJ_TS_2602_LIS_MAN_ENG", "nazev": "Zvýšení
+kybernetické bezpečnosti Liberecké IS, a.s.", "typ_projektu": "Veřejná zakázka
+(Pořízení a implementace nástroje pro řízení a nastavování klientských stanic)",
+"smlouva_cislo": "LIS: 2025_2_097 / 2026-TS-LIIS-01", "financovani": "Národní
+plán obnovy", "status": "k doplnění" }, "terminy": { "datum_ucinnosti":
+"2026-02-11 a okamžikem uveřejnění v registru smluv", "nejzazsi_termin":
+"2026-05-05", "doba_realizace_dni": "80", "zaruka_mesice": "60", "milniky": [ {
+"nazev": "První jednání pracovní skupiny", "termin": "do 10 dnů od nabytí
+účinnosti Smlouvy", "popis": "Jednání proběhne osobně v sídle Kupujícího za
+účasti realizačního týmu obou Smluvních stran. Prodávající předloží návrh
+harmonogramu implementace předmětu koupě k revizi a odsouhlasení Kupujícím." },
+{ "nazev": "Zpracování Cílového konceptu", "termin": "do 20 dnů od nabytí
+účinnosti Smlouvy", "popis": "Zpracování cílového konceptu zahrnujícího
+analýzu stávajícího stavu, návrh harmonogramu realizace, návrh pravidel a
+schvalovacích procesů, návrh testovacích scénářů, způsob a formu realizace
+předmětu plnění." }, { "nazev": "Předání Předmětu koupě", "termin": "do 80 dnů
+od nabytí účinnosti Smlouvy, nejpozději však do 5. 5. 2026", "popis": "Předání
+Předmětu koupě včas a v řádné kvalitě spolu s veškerými doklady a převedení
+vlastnického práva nebo práva k užití." }, { "nazev": "Přechod do produktivního
+provozu", "termin": "do 80 dnů od nabytí účinnosti Smlouvy, nejpozději však
+do 5. 5. 2026", "popis": "Přechod do produktivního provozu po akceptaci
+provedených testů zadavatelem." } ] }, "finance": { "cena_bez_dph_czk":
+"7 176 000,00", "typ_ceny": "maximální a nepřekročitelná", "platebni_podminky":
+"Na základě jedné faktury, kterou Prodávající vystaví po řádném předání Předmětu
+koupě Kupujícímu.", "splatnost_dni": "30" }, "strany": { "kupujici": { "nazev":
+"Liberecká IS, a.s.", "ico": "25450131", "adresa": "Mrštíkova 850/3, Liberec
+III-Jeřáb, 460 07 Liberec", "zastoupeni": "Ing. Jaroslav Bureš, MBA, předseda
+představenstva", "kontaktni_osoba": "Jiří Třísko, trisko.jiri@is.liberec.cz" },
+"prodavajici": { "nazev": "TOTAL SERVICE a.s.", "ico": "256 18 067", "adresa":
+"U Uranie 954/18, Holešovice, 170 00 Praha 7", "zastoupeni": "Ing. Janem
+Navrátilem, členem představenstva a Jiřím Chovancem, místopředsedou
+představenstva", "kontaktni_osoba": "Zdeněk Čmelík, MBA,
+zcmelik@totalservice.cz" } }, "role": { "sponzor_projektu": "Ing. Jaroslav Bureš",
+"projektovy_manazer": "Michal Michálek", "dalsi_role": [] }, "cile_projektu": {
+"hlavni_cil": "Pořízení a nasazení centralizovaného systému Unified Endpoint
+Management (UEM) umožňujícího jednotnou správu, dohled, zabezpečení a
+automatizaci provozu pracovních stanic a mobilních zařízení v organizaci.",
+"dilci_cile": [ "Sjednotit správu koncových zařízení", "Zvýšit bezpečnost na
+úrovni endpointu", "Zjednodušit provozní řízení IT infrastruktury" ] },
+"predmet_plneni": { "popis": "Dodávka a implementace nástroje pro řízení a
+nastavování klientských stanic (UEM Unified Endpoint Management).", "hw": [
+"Kompletní serverová infrastruktura pro provoz systému UEM v režimu vysoké
+dostupnosti (HA) - 2x fyzický server HPE ProLiant DL385 G11 9015 (CPU: 1x 8
+jader, AMD EPYC 9015 (3.6GHz, 8-core, 125W), RAM: 64 GB ECC, RAID řadič: HW RAID
+s cache a BBU, write-back zapnutý)", "Systémové úložiště: 2x HPE 480GB SSD + 2x
+HPE 960GB NVMe SSD (RAID 1, min. 800 GB čisté kapacity)", "Datové úložiště: 3x
+HPE 3.84T NVMeRI SFF v RAID 5 + 1x HPE 3.84T NVMeRI SFF spare (min. 7 TB čisté
+kapacity)", "Síťová rozhraní: 2x 10 GbE RJ45 + 2x 10/25 Gb SFP28",
+"Management: 1x OOB management HP iLO 6", "Napájení: 2x 1000W Flex Slot Titanium
+Hot Plug redundantní PSU", "TPM 2.0 modul" ], "sw_licence": [ "Microsoft Windows
+Server 2025 Standard (16 Core licence na každý server)", "Microsoft SQL
+Server 2022 Standard (8 Core licence na každý server)", "Microsoft Windows
+Server CAL 2025 – Device CAL pro 1000 zařízení", "ManageEngine Endpoint Central
+Security Edition - Perpetual Model (1 ks Single Installation License fee
+for 1000 endpoints and Single User License)", "5 ks Annual Maintenance and
+Support fee for 1000 endpoints and Single User License", "1 ks Single
+Installation License fee for Multi-Language Pack License", "5 ks Annual
+Maintenance and Support fee for Multi-Language Pack License", "1 ks Single
+Installation License fee for Additional 10 Users", "5 ks Annual Maintenance and
+Support fee for Additional 10 Users", "1 ks Single Installation License fee for
+Secure Gateway Server", "5 ks Annual Maintenance and Support fee for Secure
+Gateway Server", "1 ks Single Installation License Fee for Failover Service for
+computers 1001 to 5000", "5 ks Annual Maintenance and Support fee for Failover
+Service for computers 1001 to 5000", "5 ks CZE Annual support" ], "sluzby": [
+"Implementace a konfigurace HA prostředí", "Nasazení systému UEM včetně všech
+potřebných komponent, agentů a konfigurací", "Školení administrátorů a předání
+provozní dokumentace", "Analýza stávajícího stavu, návrh harmonogramu realizace,
+návrh pravidel a schvalovacích procesů, návrh testovacích scénářů, způsob a
+forma realizace předmětu plnění (Cílový koncept)", "Instalace, konfigurace a
+uvedení do provozu v prostředí zadavatele", "Integrace systému s Active
+Directory a síťovým prostředím zadavatele", "Nasazení spravovaných zařízení -
+instalace agentů, jejich připojení k centrálnímu serveru a uvedení zařízení do
+správy systému UEM", "Předání provozní dokumentace a provedení školení
+administrátorů", "Zajištění akceptačních testů a ověření funkčnosti", "Záruční
+podpora veškerého dodaného HW a SW po dobu 5 let" ] }, "rizika": [ { "popis":
+"Možná obchodní rizika plynoucí ze skutečností, které znemožňují či omezují
+plnění Smlouvy.", "kategorie": "Obchodní" }, { "popis": "Prodávající je
+nespolehlivým plátcem DPH nebo insolvence.", "kategorie": "Finanční/Právní" }, {
+"popis": "Prodlení Prodávajícího s řádným a včasným dodáním Předmětu koupě.",
+"kategorie": "Dodavatelské" }, { "popis": "Prodlení Prodávajícího s odstraněním
+vady.", "kategorie": "Dodavatelské" }, { "popis": "Nesprávná specifikace
+výrobce/zajišťovatele záruky.", "kategorie": "Dodavatelské" }, { "popis":
+"Porušení povinností Prodávajícího týkajících se kvality HW/SW (nový,
+nepoužitý, záruka výrobce).", "kategorie": "Kvalita/Dodavatelské" }, {
+"popis": "Porušení povinností Prodávajícího týkajících se práv a povinností
+smluvních stran (pracovněprávní, BOZP, životní prostředí, platební podmínky,
+DNSH, poddodavatelé).", "kategorie": "Právní/Provozní" }, { "popis": "Porušení
+povinností Prodávajícího týkajících se SW licencí (oprávnění, práva třetích
+osob).", "kategorie": "Právní" } ], "omezeni": [ "Prodávající není oprávněn
+postoupit svá práva a povinnosti vyplývající z této Smlouvy na třetí osobu.",
+"Licence k SW je nevýhradní, bez časového omezení, pro území České republiky,
+pro potřebu Kupujícího v souvislosti s řádným užíváním SW a s vyloučením
+oprávnění poskytnout Licence třetí osobě (Podlicence).", "Dodaný HW musí být
+nový a nepoužitý, vyrobený ne déle než 18 měsíců před datem dodání, pořízený
+výhradně od výrobce nebo autorizovaného distributora.", "Dodaný SW / licence
+musí být nový a nepoužitý, tj. nikoli ze sekundárního trhu s digitálním obsahem,
+pořízený výhradně od výrobce nebo autorizovaného distributora.", "Systém UEM
+musí být licencován, dimenzován a výkonově navržen minimálně pro 1000 koncových
+zařízení (endpointů), s možností budoucího rozšíření minimálně o dalších 300
+koncových zařízení.", "Nabízené servery musí být enterprise třídy, certifikované
+pro nepřetržitý 24x7 provoz v datacentru, s plnou kompatibilitou pro OS
+Microsoft Windows Server 2025 Standard a integrovaným OOB management
+rozhraním.", "Dodávka nesmí obsahovat necertifikovaný, rebrandovaný nebo
+„whitebox" hardware ani sestavené servery bez autorizovaného servisu." ],
+"predpoklady": [ "Kupující poskytne potřebnou součinnost při řešení záležitostí
+souvisejících s Akceptací Předmětu koupě.", "Kupující zkontroluje soulad
+Akceptačního protokolu se skutečně dodaným Předmětem koupě.", "Kupující zaplatí
+včas Kupní cenu.", "Smluvní strany se budou vzájemně bez zbytečného odkladu
+informovat o všech skutečnostech, které znemožňují či omezují plnění Smlouvy, a
+neprodleně zahájí jednání směřující k eliminaci a řešení možných obchodních
+rizik." ], "sla": { "zarucni_doba_mesice": "60", "priority": [ { "nazev":
+"Standardní priorita", "termin": "k doplnění", "popis": "Havárie a poruchy
+Předmětu koupě (HW i SW), jež znemožňují provoz části systému řízení a
+nastavování klientských stanic (např. běží jedna lokalita a služby jsou
+poskytovány pouze z druhé lokality).", "doba_reakce": "2 hodiny",
+"doba_zasahu": "4 hodiny", "doba_vyreseni": "16 hodin", "pracovni_doba": "07:00
+- 17:00 hod. v pracovní dny" }, { "nazev": "Vysoká priorita", "termin": "k
+doplnění", "popis": "Havárie a poruchy Předmětu koupě (HW i SW), jež znemožňují
+provoz celého systému řízení a nastavování klientských stanic.", "doba_reakce":
+"2 hodiny", "doba_zasahu": "4 hodiny", "doba_vyreseni": "8 hodin",
+"pracovni_doba": "07:00 - 17:00 hod. v pracovní dny" }, { "nazev": "Dotaz",
+"termin": "k doplnění", "popis": "Reakce na dotaz Kupujícího vznesený
+prostřednictvím servicedesku.", "doba_reakce": "k doplnění", "doba_zasahu": "k
+doplnění", "doba_vyreseni": "do 3 pracovních dnů", "pracovni_doba": "07:00
+- 17:00 hod. v pracovní dny" } ] }, "mezery": [ "projekt.status",
+"role.sponzor_projektu", "role.projektovy_manazer", "sla.priority[0].termin",
+"sla.priority[1].termin", "sla.priority[2].termin",
+"sla.priority[2].doba_reakce", "sla.priority[2].doba_zasahu" ] }
 
