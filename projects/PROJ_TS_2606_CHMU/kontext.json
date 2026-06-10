@@ -1,1 +1,150 @@
+{
+  "projekt": {
+    "id": "N006/25/V00040236",
+    "nazev": "Dodávka HW, SW a vybavení serverovny pro zajištění a realizaci vybraných technických opatření kybernetické bezpečnosti archivačního a databázového systému v rámci KII",
+    "typ_projektu": "Poddodávka (Fyzická bezpečnost, archivační systém – páskové knihovny)",
+    "smlouva_cislo": "PRO-26-004 (Dodavatel) / 2026-TT-TS-03_ČHMU (Poddodavatel)",
+    "financovani": "k doplnění",
+    "status": "k doplnění"
+  },
+  "terminy": {
+    "datum_ucinnosti": "k doplnění",
+    "nejzazsi_termin": "k doplnění",
+    "doba_realizace_dni": "k doplnění",
+    "zaruka_mesice": "60",
+    "milniky": [
+      {
+        "nazev": "1.1. Analýza prostředí a vypracování Low Level Designu a implementačního plánu",
+        "termin": "Od T do T+3 měsíce (kde T je 26. 2. 2026)",
+        "popis": "Vypracování LLD a implementačního plánu"
+      },
+      {
+        "nazev": "1.2. Dodávka HW a SW",
+        "termin": "Od T do T+3 měsíce (kde T je 26. 2. 2026)",
+        "popis": "Dodávka specifikovaných komponent"
+      },
+      {
+        "nazev": "1.3. Implementace",
+        "termin": "Od ukončení milníků 1.1 a 1.2 + 3 měsíce",
+        "popis": "Instalace a implementace"
+      },
+      {
+        "nazev": "1.4. Migrace stávajících dat",
+        "termin": "Od ukončení milníku 1.3 + 7 měsíců",
+        "popis": "Migrace dat"
+      },
+      {
+        "nazev": "1.5. Pilotní provoz",
+        "termin": "Od ukončení milníku 1.3 + 2 měsíce",
+        "popis": "Zahájení a realizace pilotního provozu"
+      },
+      {
+        "nazev": "1.6. Proškolení obsluhy",
+        "termin": "Od zahájení milníku 1.5 + 1 měsíc",
+        "popis": "Školení obsluhy"
+      },
+      {
+        "nazev": "1.7. Spuštění do produkčního provozu",
+        "termin": "Od ukončení milníků 1.5 a 1.6 + 2 měsíce",
+        "popis": "Uvedení do ostrého provozu"
+      }
+    ]
+  },
+  "finance": {
+    "cena_bez_dph_czk": "12345520.00",
+    "typ_ceny": "pevná, úplná a nejvýše přípustná",
+    "platebni_podminky": "Jednorázově po splnění milníků (60 % po akceptaci milníku 1.2, 20 % po akceptaci milníku 1.3, 20 % po akceptaci milníku 1.7). Provozní podpora hrazena měsíčně ve výši 14 000 Kč bez DPH po dobu 60 měsíců.",
+    "splatnost_dni": "45"
+  },
+  "strany": {
+    "kupujici": {
+      "nazev": "TresTech s.r.o.",
+      "ico": "04262719",
+      "adresa": "Hlubočepská 1291/2, Hlubočepy, 152 00 Praha 5",
+      "zastoupeni": "Tomáš Hauzner, B.A., jednatel",
+      "kontaktni_osoba": "Jan Rindt (tel. +420 737 208 598, e-mail: j.rindt@trestech.cz)"
+    },
+    "prodavajici": {
+      "nazev": "TOTAL SERVICE a.s.",
+      "ico": "25618067",
+      "adresa": "U Uranie 954/18, Holešovice, 170 00 Praha 7",
+      "zastoupeni": "Ing. Jan Navrátil (člen představenstva), Jiří Chovanec (místopředseda představenstva)",
+      "kontaktni_osoba": "Ing. Jan Navrátil (tel. +420 723 873 711, e-mail: jnavratil@totalservice.cz)"
+    }
+  },
+  "role": {
+    "sponzor_projektu": "k doplnění",
+    "projektovy_manazer": "k doplnění",
+    "dalsi_role": [
+      {
+        "nazev": "Oprávněná osoba hlavního dodavatele (TresTech s.r.o.)",
+        "jmeno": "Jan Rindt"
+      },
+      {
+        "nazev": "Oprávněná osoba poddodavatele (TOTAL SERVICE a.s.)",
+        "jmeno": "Ing. Jan Navrátil"
+      },
+      {
+        "nazev": "Oprávněná osoba poddodavatele (TOTAL SERVICE a.s.)",
+        "jmeno": "Jiří Chovanec"
+      }
+    ]
+  },
+  "cile_projektu": {
+    "hlavni_cil": "Realizace subdodávky pro archivační systém – páskové knihovny v rámci veřejné zakázky na dodávku HW, SW a vybavení serverovny pro zajištění a realizaci vybraných technických opatření kybernetické bezpečnosti archivačního a databázového systému v rámci KII.",
+    "dilci_cile": [
+      "Dodávka požadovaných komponent archivačního systému",
+      "Instalace a implementace archivačního systému včetně předimplementační analýzy, testovacího a pilotního provozu podle harmonogramu projektu",
+      "Zaškolení administrátorů a auditorů",
+      "Poskytování provozní podpory po dobu 60 měsíců"
+    ]
+  },
+  "predmet_plneni": {
+    "popis": "Část 2 Fyzická bezpečnost, kapitola 2.2.4. Archivační systém – páskové knihovny.",
+    "hw": [
+      "4 x TS4300 (6x LTO9, 13x EXP) 5yr",
+      "2240 x LTO9 včetně labelů",
+      "24 x IBM LTO Ultrium Universal Cleaning Cartridge včetně labelů",
+      "4 x Rack včetně montáže",
+      "8 x APC Easy PDU Switched ZeroU 16A (20)C13 (4)C19 IEC 60309 16 A 2F+E"
+    ],
+    "sw_licence": [
+      "k doplnění"
+    ],
+    "sluzby": [
+      "Předimplementační analýza prostředí",
+      "Zpracování Low Level Designu a implementačního plánu",
+      "Instalace a implementace",
+      "Migrace stávajících dat",
+      "Pilotní provoz",
+      "Proškolení obsluhy (administrátorů a auditorů)",
+      "Uvedení do produkčního provozu",
+      "10 MD implementační práce",
+      "60 měsíců provozní podpora",
+      "Služby na pokyn a Exit"
+    ]
+  },
+  "rizika": [],
+  "omezeni": [
+    "Poddodavatel je povinen respektovat projektové řízení Dodavatele, zejména komunikační kanály, postupy schvalování, milníky, harmonogramy, reporting a kontrolní mechanismy."
+  ],
+  "predpoklady": [],
+  "sla": {
+    "zarucni_doba_mesice": "60",
+    "priority": []
+  },
+  "mezery": [
+    "projekt.financovani",
+    "projekt.status",
+    "terminy.datum_ucinnosti",
+    "terminy.nejzazsi_termin",
+    "terminy.doba_realizace_dni",
+    "role.sponzor_projektu",
+    "role.projektovy_manazer",
+    "predmet_plneni.sw_licence",
+    "rizika",
+    "predpoklady",
+    "sla.priority"
+  ]
+}
 
